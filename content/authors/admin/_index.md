@@ -1,14 +1,11 @@
 ---
 # Display name
 title: Nikhil Sebastian
+icon: home.svg
 
 # Full name (for SEO)
 first_name: Nikhil
 last_name: Sebastian
-
-# Status emoji
-status:
-  icon: 🧑‍💻️
 
 # Is this the primary user of the site?
 superuser: true
@@ -36,5 +33,8 @@ profiles:
     url: uploads/CV_SebastianNikhil.pdf
     label: Download my resume
 ---
+\[EN\]
+Hello! I'm Nikhil, I'm passionate about utilizing data-driven insights to address complex economic challenges. With expertise in big data analytics, coding, and development, I am committed to leveraging technology for innovative solutions in economic research and decision-making. Rooted in a strong work ethic, I am dedicated to continual learning and improvement. Beyond my professional pursuits, I embrace a creative side - with love for composing music and playing the piano in my free time (check out my music below!). Equipped with a solid foundation in economic theory, empirical methods, and technical skills, I am eager to contribute to impactful initiatives that will shape the future of economics and beyond.
 
-A graduate with a research master's degree in Economics from Sciences Po, Paris, Nikhil Sebastian is passionate about utilizing data-driven insights to address complex economic challenges. With expertise in big data analytics, coding, and development, he is committed to leveraging technology for innovative solutions in economic research and decision-making. Rooted in a strong work ethic, he is dedicated to continual learning and improvement. Beyond his professional pursuits, he embraces a creative side, expressing his love for composing music and playing the piano. Equipped with a solid foundation in economic theory, empirical methods, and technical skills, he is eager to contribute to impactful initiatives that shape the future of economics and beyond.
+\[FR\]
+Bonjour! Je m'appelle Nikhil, et je suis passionné par l'utilisation d'analyses basées sur les données pour résoudre des défis économiques complexes. Fort de compétences en analyse de données volumineuses, en programmation et en développement, je m'engage à exploiter la technologie pour des solutions innovantes en recherche économique et prise de décision. Fondé sur une éthique de travail solide, je suis déterminé à apprendre et à m'améliorer continuellement. Au-delà de mes activités professionnelles, je cultive un côté créatif - avec un amour pour la composition musicale et la pratique du piano pendant mes moments libres (découvrez ma musique ci-dessous !). Doté d'une solide base en théorie économique, en méthodes empiriques et en compétences techniques, je suis impatient de contribuer à des initiatives impactantes qui façonneront l'avenir de l'économie et au-delà.

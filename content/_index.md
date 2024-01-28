@@ -1,5 +1,5 @@
 ---
-title: 'Home'
+title: 'Nikhil Sebastian'
 date: 2023-10-24
 type: landing
 
@@ -7,7 +7,7 @@ design:
   background:
     image:
       # Add your image background to `assets/media/`.
-      filename: wesbite.jpeg
+      filename: website.jpeg
 
 sections:
   - block: biography
@@ -22,13 +22,10 @@ sections:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
-        - text: My recent projects at Allianz Trade
-          icon: 🧑‍💻️
+        - text: Economic Publications with Allianz Trade
+          icon: econ.svg
           url: https://www.allianz-trade.com/en_global/news-insights/economic-insights.html
-        - text: Let's connect on LinkedIn
-          icon: brands/linkedin
-          url: https://www.linkedin.com/in/nikhilsebastian98/
-        - text: Watch 'Whisper of the Night', my single with Devi Sastry 
+        - text: My Music 
           icon: brands/youtube
           url: https://www.youtube.com/watch?v=g4dj9ffDVSY
 ---
