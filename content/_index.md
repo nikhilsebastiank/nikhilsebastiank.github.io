@@ -22,13 +22,13 @@ sections:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
-        - text: My recent projects with the economists at Allianz
+        - text: My recent projects at Allianz Trade
           icon: 🧑‍💻️
-          url: https://www.youtube.com/watch?v=g4dj9ffDVSY
-        - text: Watch my music video
-          icon: brands/youtube
-          url: https://www.youtube.com/watch?v=g4dj9ffDVSY
-        - text: Connect with me on LinkedIn
+          url: https://www.allianz-trade.com/en_global/news-insights/economic-insights.html
+        - text: Let's connect on LinkedIn
           icon: brands/linkedin
           url: https://www.linkedin.com/in/nikhilsebastian98/
+        - text: Watch 'Whisper of the Night', my single with Devi Sastry 
+          icon: brands/youtube
+          url: https://www.youtube.com/watch?v=g4dj9ffDVSY
 ---
