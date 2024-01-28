@@ -30,7 +30,7 @@ profiles:
     url: https://github.com/nikhilsebastiank
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
-    url: uploads/CV_SebastianNikhil.pdf
+    url: uploads/CV_SebastianNikhil_updated.pdf
     label: Download my resume
 ---
 
