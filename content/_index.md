@@ -7,7 +7,7 @@ design:
   background:
     image:
       # Add your image background to `assets/media/`.
-      filename: website.jpeg
+      filename: wesbite.jpeg
 
 sections:
   - block: biography
@@ -23,7 +23,7 @@ sections:
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
         - text: My recent projects with the economists at Allianz
-          icon: brands/allianz
+          icon: 🧑‍💻️
           url: https://www.youtube.com/watch?v=g4dj9ffDVSY
         - text: Watch my music video
           icon: brands/youtube
