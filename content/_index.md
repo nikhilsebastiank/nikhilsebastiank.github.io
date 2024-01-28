@@ -34,9 +34,9 @@ sections:
           - text: A Slow Landing for China
             icon: /workspaces/nikhilsebastiank.github.io/assets/media/icons/econ1.svg
             url: https://www.allianz-trade.com/en_global/news-insights/economic-insights/china-landing.html
-            
+
         - section: Music
-          - text: Whisper of the Nigh - with Devi Sastry
+          - text: Whisper of the Night - with Devi Sastry
             icon: brands/youtube
             url: https://www.youtube.com/watch?v=g4dj9ffDVSY
 ---
