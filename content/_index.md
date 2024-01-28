@@ -23,7 +23,7 @@ sections:
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
         - text: Research Publications
-          icon: assets/media/icons/econ.svg
+          icon: econ
           url: https://www.allianz-trade.com/en_global/news-insights/economic-insights.html
         - text: My Music 
           icon: brands/youtube
