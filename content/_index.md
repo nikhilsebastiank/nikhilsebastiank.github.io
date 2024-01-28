@@ -22,8 +22,8 @@ sections:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
-        - text: Economic Publications with Allianz Trade
-          icon: econ.svg
+        - text: Research Publications
+          icon: assets/media/icons/econ.svg
           url: https://www.allianz-trade.com/en_global/news-insights/economic-insights.html
         - text: My Music 
           icon: brands/youtube
