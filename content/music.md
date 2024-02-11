@@ -1,7 +1,6 @@
 ---
 menus: main
 title: 'Music'
-date: 2023-10-24
 
 design:
   background:
