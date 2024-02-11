@@ -20,5 +20,5 @@ sections:
                   url: https://www.allianz-trade.com/content/dam/onemarketing/aztrade/allianz-trade_com/en_gl/erd/publications/pdf/2023_11_24_what_to_watch.pdf
           
                 - text: A Slow Landing for China
-                  url: https://www.allianz-trade.com/content/dam/onemarketing/aztrade/allianz-trade_com/en_gl/erd/publications/pdf/2023_11_24_what_to_watch.pdf
+                  url: https://www.allianz-trade.com/en_global/news-insights/economic-insights/china-landing.html
 ---
