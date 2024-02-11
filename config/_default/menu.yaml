@@ -5,6 +5,6 @@ main:
   - name: Research
     url: research/
     weight: 20
-  - name: Research
+  - name: Music
     url: music/
     weight: 30
