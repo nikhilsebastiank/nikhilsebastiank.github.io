@@ -8,15 +8,8 @@ design:
     image:
       # Add your image background to `assets/media/`.
       filename: website.jpeg
-      
+
 sections:
-  - block: biography
-    content:
-      # The user's folder name in content/authors/
-      username: admin
-    design:
-      biography:
-        style: 'text-align: justify; font-size: 0.8em;'
   - block: cta-button-list
     content:
       # Need a custom icon?
