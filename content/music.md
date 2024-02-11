@@ -8,7 +8,7 @@ design:
     image:
       # Add your image background to `assets/media/`.
       filename: website.jpeg
----
+      
 sections:
   - block: biography
     content:
@@ -39,3 +39,5 @@ sections:
 
         - text: Come Away (Live), at Autumn Muse with Jazz Kidding
           url: https://www.youtube.com/watch?v=GbjTGIbmOvc
+
+---
