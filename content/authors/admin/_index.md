@@ -33,5 +33,3 @@ profiles:
     url: uploads/CV_SebastianNikhil_updated.pdf
     label: Download my resume
 ---
-
-Hello, I am Nikhil :) I am passionate about utilizing data-driven insights to address complex economic challenges. With expertise in big data analytics, coding, and development, I am committed to leveraging technology for innovative solutions in economic research and decision-making. Rooted in a strong work ethic, I am dedicated to continual learning and improvement. Equipped with a solid foundation in economic theory, empirical methods, and technical skills, I am eager to contribute to impactful initiatives that will shape the future of economics and beyond. Alongside my professional pursuits, I embrace a creative side - a love for composing music and playing the piano in my free time.
