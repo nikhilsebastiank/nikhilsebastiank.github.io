@@ -1,7 +1,7 @@
 ---
 menus: main
 title: 'Music'
-date: 
+date: {{ now.Format "2006-01-02" }}
 
 design:
   background:

@@ -1,6 +1,7 @@
 ---
 menus: main
 title: 'Research'
+date: {{ now.Format "2006-01-02" }}
 
 design:
   background:
