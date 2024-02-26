@@ -9,7 +9,7 @@ design:
       filename: website.jpeg
 ---
 
-Please find below, research projects that I've had the opportunity to be work on: 
+Please find below, research projects that I've had the opportunity to work on: 
 
 1. [China: Keeping the Dragon Awake, February 2024](https://www.allianz-trade.com/content/dam/onemarketing/aztrade/allianz-trade_com/en_gl/erd/publications/pdf/2024-02-07-China.pdf)
 
