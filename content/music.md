@@ -1,7 +1,6 @@
 ---
 menus: main
 title: 'Music'
-date: "2024-02-27"
 
 design:
   background:

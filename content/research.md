@@ -1,7 +1,6 @@
 ---
 menus: main
 title: 'Research'
-date: "2024-02-27"
 
 design:
   background:
