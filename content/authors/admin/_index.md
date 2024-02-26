@@ -36,4 +36,4 @@ profiles:
 
 Hello :) I'm Nikhil and I'm passionate about utilizing data-driven insights to address complex economic challenges. With expertise in big data analytics, coding, and development, I am committed to leveraging technology for innovative solutions in economic research and decision-making. Rooted in a strong work ethic, I am dedicated to continual learning and improvement. Equipped with a solid foundation in economic theory, empirical methods, and technical skills, I am eager to contribute to impactful initiatives that will shape the future of economics and beyond. Alongside my professional pursuits, I embrace a creative side - a love for composing music and playing the piano in my free time.
 
-On my website, you can find some projects that I've had the opportunity to work on. Further, I am on the lookout for new opportunities in economic research - please feel free to reach out if you have any leads! 
+On my website, you can find some projects that I've had the opportunity to work on. Further, I am on the lookout for new opportunities in economic research - please do not hesitate to write to meup if you have any leads! 
