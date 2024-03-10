@@ -6,7 +6,7 @@ design:
   background:
     image:
       # Add your image background to `assets/media/`.
-      filename: website.jpeg
+      filename: website1.jpeg
 ---
 
 Please find below, music projects that I've had the opportunity to be part of: 

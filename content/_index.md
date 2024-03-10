@@ -7,7 +7,7 @@ design:
   background:
     image:
       # Add your image background to `assets/media/`.
-      filename: website.jpeg
+      filename: website1.jpeg
 
 sections:
   - block: biography
